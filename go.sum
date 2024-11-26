@@ -1,0 +1,8 @@
+github.com/go-gl/gl v0.0.0-20231021071112-07e5d0ea2e71 h1:5BVwOaUSBTlVZowGO6VZGw2H/zl9nrd3eCZfYV+NfQA=
+github.com/go-gl/gl v0.0.0-20231021071112-07e5d0ea2e71/go.mod h1:9YTyiznxEY1fVinfM7RvRcjRHbw2xLBJ3AAGIT0I4Nw=
+github.com/laranc/monorepo v0.0.0-20240624030615-b0241808f2b3 h1:kWdoImZ3Ufev/ig0kM59yhisivgvUwvYELnIO/WxSrQ=
+github.com/laranc/monorepo v0.0.0-20240624030615-b0241808f2b3/go.mod h1:buPGjN3ipKEhfa36W5u5031cFWj+4mYzH5DR5Ab5uaw=
+github.com/laranc/monorepo v0.0.0-20240718042814-f29ee3c8bdcf h1:UwIU/V1KhUfQAhNyImMG035s53yWdAukmlRaULjaT20=
+github.com/laranc/monorepo v0.0.0-20240718042814-f29ee3c8bdcf/go.mod h1:buPGjN3ipKEhfa36W5u5031cFWj+4mYzH5DR5Ab5uaw=
+github.com/veandco/go-sdl2 v0.4.40 h1:fZv6wC3zz1Xt167P09gazawnpa0KY5LM7JAvKpX9d/U=
+github.com/veandco/go-sdl2 v0.4.40/go.mod h1:OROqMhHD43nT4/i9crJukyVecjPNYYuCofep6SNiAjY=
