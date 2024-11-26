@@ -7,3 +7,5 @@ require (
 	github.com/laranc/monorepo v0.0.0-20240718042814-f29ee3c8bdcf
 	github.com/veandco/go-sdl2 v0.4.40
 )
+
+require gonum.org/v1/gonum v0.15.1 // indirect
